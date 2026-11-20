@@ -43,6 +43,24 @@ I build and run back-end systems that real customers pay for: online reservation
 | **Panelyar** | Customer management panel for the Persian Hotel system | [panelyar.com](https://panelyar.com) |
 | **Pishgam Teb panel** | User management for a medical platform | [pyshgamteb.com/panel](https://pyshgamteb.com/panel) |
 
+## Open source
+
+### [laravel-bookable](https://github.com/ahshiri834/laravel-bookable)
+
+[![tests](https://github.com/ahshiri834/laravel-bookable/actions/workflows/tests.yml/badge.svg)](https://github.com/ahshiri834/laravel-bookable/actions/workflows/tests.yml)
+[![Packagist](https://img.shields.io/packagist/v/ahshiri834/laravel-bookable?style=flat-square)](https://packagist.org/packages/ahshiri834/laravel-bookable)
+[![License](https://img.shields.io/github/license/ahshiri834/laravel-bookable?style=flat-square)](https://github.com/ahshiri834/laravel-bookable/blob/main/LICENSE)
+
+Availability, safe reservations and seasonal pricing for any Eloquent model. Built from patterns learned running booking systems in production.
+
+- **No overbooking**: per-bookable locking, verified by a multi-process race test on MySQL in CI
+- **Correct availability**: peak usage per night, not a naive sum of overlapping bookings
+- **Expiring holds**, events, and per-night price quotes in integer minor units
+
+```bash
+composer require ahshiri834/laravel-bookable
+```
+
 ## Also built (private repositories)
 
 - **Cuply**: Persian party-games platform: PHP back end, React PWA front end, Capacitor Android app

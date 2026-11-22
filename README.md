@@ -2,11 +2,11 @@
 
 # Amirhossein Shiri
 
-**Back-End Developer · PHP & Laravel**
-Scalable APIs, booking platforms and production systems for the Persian-speaking market.
+**Senior Back-End Engineer · PHP & Laravel**
+Booking and payment platforms, APIs and my own products. Open to remote roles.
 
 [![Email](https://img.shields.io/badge/Email-amirhossein.shiri20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amirhossein.shiri20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirhossein%20Shiri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-shiri-410b28214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirhossein%20Shiri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-shiri)
 [![Telegram](https://img.shields.io/badge/Telegram-@ahshiri834-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ahshiri834)
 
 </div>
@@ -29,7 +29,8 @@ I build and run back-end systems that real customers pay for: online reservation
 | Back end | Laravel, REST APIs, MVC |
 | Front end | React (PWA), jQuery |
 | Mobile | Capacitor (Android) |
-| Data | MySQL, Redis |
+| Data | MySQL, Redis, MongoDB |
+| AI | LLM API integration (OpenAI-compatible endpoints) |
 | DevOps | Docker, Git, GitHub Actions |
 | CMS | WordPress (custom plugins & admin tooling) |
 
@@ -61,17 +62,25 @@ Availability, safe reservations and seasonal pricing for any Eloquent model. Bui
 composer require ahshiri834/laravel-bookable
 ```
 
+## My own products
+
+| Project | What it is | Link |
+|---|---|---|
+| **KitPage** | Persian link-in-bio, portfolio, store and booking builder. Framework-free PHP 8.2 + MySQL, built solo. | [kitpage.ir](https://kitpage.ir) · [source](https://github.com/ahshiri834/kitpage) |
+| **Copia** | Persian SEO content workflow on LLM APIs: keyword research, competitor analysis, outline, draft, review. Built solo. | [copia.ir](https://copia.ir) |
+| **Webarta** | RTL web agency site and WordPress tooling, co-founded. | [webarta.ir](https://webarta.ir) |
+
 ## Also built (private repositories)
 
 - **Cuply**: Persian party-games platform: PHP back end, React PWA front end, Capacitor Android app
 - **Mashhad Reserve**: reservation platform
-- **Webarta**: RTL digital-agency website and a WordPress admin/login skin plugin
 - **Jaslingua**: language-learning platform with a marketing site
 
 ## Currently
 
-- Deepening architecture patterns and cloud-ready development
-- Open to API development, Laravel projects and system-improvement work. Message me via the links above.
+- Looking for a remote Laravel / PHP back-end role or long-term contract
+- Teaching back-end development on FaraDars (11 published courses)
+- Message me via the links above.
 
 ---
 
